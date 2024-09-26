@@ -37,6 +37,7 @@ BTW, thanks for checking out..!!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -50,4 +51,8 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hirux06/leetcode-solutions/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
