@@ -63,4 +63,20 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
