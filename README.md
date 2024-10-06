@@ -59,4 +59,8 @@ BTW, thanks for checking out..!!
 | [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
