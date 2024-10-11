@@ -10,6 +10,7 @@ BTW, thanks for checking out..!!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Array
 |  |
@@ -62,6 +63,7 @@ BTW, thanks for checking out..!!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 ## Tree
 |  |
@@ -83,4 +85,8 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/hirux06/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [1005-univalued-binary-tree](https://github.com/hirux06/leetcode-solutions/tree/master/1005-univalued-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
