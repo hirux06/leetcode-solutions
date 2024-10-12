@@ -1,7 +1,7 @@
 # leetcode-solutions
 
-This repo contains solutions of my leetcode questiona.
-Note: The answers will be correct but may not be effective in memory and time...
+This repo contains solutions of my leetcode questions, which I'm currently solving.
+Note: The answers will be correct but may not be efficient in memory and time wise...
 
 BTW, thanks for checking out..!!
 
