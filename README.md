@@ -11,6 +11,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Array
 |  |
@@ -89,4 +90,5 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
