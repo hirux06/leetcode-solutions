@@ -31,6 +31,7 @@ BTW, thanks for checking out..!!
 | [0011-container-with-most-water](https://github.com/hirux06/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hirux06/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/hirux06/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hirux06/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -68,6 +69,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0020-valid-parentheses](https://github.com/hirux06/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/hirux06/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
