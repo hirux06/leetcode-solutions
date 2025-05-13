@@ -1,9 +1,11 @@
 # leetcode-solutions
 
 This repo contains solutions of my leetcode questions, which I'm currently solving.
-Note: The answers will be correct but may not be efficient in memory and time wise...
+Note: The answers will be correct but may not be efficient in memory and time wise. (though, I try to write efficient!!)
 
 BTW, thanks for checking out..!!
+
+Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
