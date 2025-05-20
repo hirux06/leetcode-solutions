@@ -45,6 +45,7 @@ Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirux06/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hirux06/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,11 +81,13 @@ Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
