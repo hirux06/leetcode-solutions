@@ -7,10 +7,10 @@ class Solution {
           
             if(arr[mid] >= arr[mid+1] && arr[mid-1] <= arr[mid]){
                 return mid;
-            }else if(arr[mid] <= arr[mid-1] && arr[mid] >= arr[mid+1]){
-                end = mid - 1;
-            }else if(arr[mid] >= arr[mid-1] && arr[mid] <= arr[mid+1]){
+            }else if(arr[mid-1] <= arr[mid]){
                 start = mid + 1;
+            }else{
+                end = mid - 1;
             }
         }
 
