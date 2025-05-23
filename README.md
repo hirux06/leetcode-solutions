@@ -45,6 +45,7 @@ Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirux06/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hirux06/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hirux06/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -85,12 +86,14 @@ Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/hirux06/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/hirux06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hirux06/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
@@ -150,6 +153,7 @@ Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 | [0141-linked-list-cycle](https://github.com/hirux06/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hirux06/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
