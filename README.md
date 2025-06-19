@@ -1,11 +1,13 @@
-# leetcode-solutions
+# Documenting my LEETCODE journey 
+Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 
-This repo contains solutions of my leetcode questions, which I'm currently solving.
-Note: The answers will be correct but may not be efficient in memory and time wise. (though, I try to write efficient!!)
+This repo contains solutions of my leetcode questions, which I'm currently solving in JAVA language only.
+
+**_Note:_** The answers will be correct but may not be efficient in memory and time wise. (though, I try to write efficient code wrt time and space!!)
 
 BTW, thanks for checking out..!!
 
-Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
