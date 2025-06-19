@@ -35,6 +35,7 @@ Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hirux06/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hirux06/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -168,6 +169,7 @@ Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hirux06/leetcode-solutions/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/hirux06/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hirux06/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
