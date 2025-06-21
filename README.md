@@ -1,6 +1,6 @@
 # Documenting my LEETCODE journey 
 Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)   
-
+  
 
 This repo contains solutions of my leetcode questions, which I'm currently solving in JAVA language only.
 
