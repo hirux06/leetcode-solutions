@@ -1,4 +1,4 @@
-# Documenting my LEETCODE journey 
+# Documenting my LEETCODE journey  
 Leetcode Profile: [Profile](https://leetcode.com/u/SaranHiruthikM/)   
   
 
