@@ -44,6 +44,7 @@ BTW, thanks for checking out..!!
 | [0033-search-in-rotated-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hirux06/leetcode-solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hirux06/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hirux06/leetcode-solutions/tree/master/0078-subsets) |
@@ -142,6 +143,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hirux06/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
@@ -188,6 +190,7 @@ BTW, thanks for checking out..!!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Backtracking
 |  |
