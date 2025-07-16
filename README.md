@@ -45,6 +45,7 @@ BTW, thanks for checking out..!!
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hirux06/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hirux06/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hirux06/leetcode-solutions/tree/master/0078-subsets) |
@@ -191,6 +192,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Backtracking
 |  |
@@ -219,5 +221,6 @@ BTW, thanks for checking out..!!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
