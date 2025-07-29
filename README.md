@@ -62,6 +62,7 @@ BTW, thanks for checking out..!!
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hirux06/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/hirux06/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hirux06/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hirux06/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -189,6 +190,7 @@ BTW, thanks for checking out..!!
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -224,4 +226,8 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0054-spiral-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hirux06/leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
