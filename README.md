@@ -51,6 +51,7 @@ BTW, thanks for checking out..!!
 | [0078-subsets](https://github.com/hirux06/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hirux06/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/hirux06/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirux06/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hirux06/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -102,6 +103,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hirux06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/hirux06/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hirux06/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
