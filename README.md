@@ -57,6 +57,7 @@ BTW, thanks for checking out..!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hirux06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hirux06/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hirux06/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hirux06/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -190,6 +191,7 @@ BTW, thanks for checking out..!!
 | [0142-linked-list-cycle-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hirux06/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/hirux06/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hirux06/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -214,6 +216,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0075-sort-colors](https://github.com/hirux06/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hirux06/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -223,6 +226,7 @@ BTW, thanks for checking out..!!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
