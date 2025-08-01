@@ -48,6 +48,7 @@ BTW, thanks for checking out..!!
 | [0046-permutations](https://github.com/hirux06/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hirux06/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/hirux06/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/hirux06/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hirux06/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/hirux06/leetcode-solutions/tree/master/0078-subsets) |
@@ -220,6 +221,7 @@ BTW, thanks for checking out..!!
 | ------- |
 | [0015-3sum](https://github.com/hirux06/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hirux06/leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/hirux06/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hirux06/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hirux06/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hirux06/leetcode-solutions/tree/master/0229-majority-element-ii) |
